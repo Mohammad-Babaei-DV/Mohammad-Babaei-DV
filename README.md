@@ -3,7 +3,7 @@
 
 
  
-<font align="center" size='9' color="blue" >Hi 👋, I'm Mohammad Babaei</font>
+<font align="center"  color="blue" >Hi 👋, I'm Mohammad Babaei</font>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-babaei-dv&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-babaei-dv" /> </p>
