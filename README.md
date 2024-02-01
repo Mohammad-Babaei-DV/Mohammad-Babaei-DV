@@ -1,4 +1,4 @@
-<main bgcolor='red'>
+ 
 
 ### Hi there 👋
 
@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 
 
 <!-- THis is new-->
- 
-<h1 align="center">Hi 👋, I'm Mohammad Babaei</h1>
+
+
+<link rel="stylesheet" href="read.css">
+<h1 align="center" class='back' >Hi 👋, I'm Mohammad Babaei</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammad-babaei-dv&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-babaei-dv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-babaei-dv&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-babaei-dv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-babaei-dv" alt="mohammad-babaei-dv" /></a> </p>
 
@@ -49,5 +51,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-babaei-dv&" alt="mohammad-babaei-dv" /></p>
 
 
- 
-</main>
